@@ -1,0 +1,8 @@
+# Compiled class file
+*.class
+
+# Setting File
+*.prefs
+
+# Text File
+*.txt
